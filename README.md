@@ -12,3 +12,5 @@ Git helps track changes made to files over time.
 A commit saves changes to the repository.
 ## Repository
 A repository stores files and their version history.
+## Branch
+A branch allows developers to work on different versions of a project.
