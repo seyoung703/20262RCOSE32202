@@ -14,3 +14,5 @@ A commit saves changes to the repository.
 A repository stores files and their version history.
 ## Branch
 A branch allows developers to work on different versions of a project.
+## GitHub
+GitHub is a platform for hosting and managing Git repositories.
