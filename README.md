@@ -18,3 +18,5 @@ A branch allows developers to work on different versions of a project.
 GitHub is a platform for hosting and managing Git repositories.
 ## Pull Request
 A pull request allows developers to propose and review changes before merging them.
+## Version History
+GitHub allows users to view previous commits and track changes.
