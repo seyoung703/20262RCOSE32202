@@ -10,3 +10,5 @@ I learned how to create a GitHub repository.
 Git helps track changes made to files over time.
 ## Commit
 A commit saves changes to the repository.
+## Repository
+A repository stores files and their version history.
