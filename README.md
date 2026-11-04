@@ -20,3 +20,7 @@ GitHub is a platform for hosting and managing Git repositories.
 A pull request allows developers to propose and review changes before merging them.
 ## Version History
 GitHub allows users to view previous commits and track changes.
+## Assignment Summary
+This repository documents my practice with GitHub, including creating a repository, editing README.md, and making commits.
+
+The source code for Operating Systems Project #1 and Project #2 is not included.
